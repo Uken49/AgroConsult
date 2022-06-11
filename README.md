@@ -1,31 +1,4 @@
-# API Projeto Site - 1º Semestre
-Esta API será utilizada para conectar seu Website do Projeto de PI ao Banco de Dados, possibilitando:
+Criação do sistema AgroConsult em equipe. <br>
+Disciplina: Pesquisa e Inovação 1° Semestre.<br>
 
-- Cadastro e Login de usuários
-- Mural de Avisos com Criação, Visualização, Atualização e Deleção de Avisos (CRUD - Create, Read, Update, Delete) 
-- Dashboard com gráficos em Chart.JS
-
-## Como iniciar o servidor da aplicação do site?
-
-- Abra este diretório em algum CLI (Command Line Interface), podendo ser o Terminal Git Bash, o Terminal do VSCode...
-    -  _Também chamamos CLI de "tela preta"_
-
-- "Entre" na pasta /site:
-
-```
-    cd site
-```
-
-- Execute o comando para instalar as dependências:
-
-```
-    npm i
-```
-
-- Aguarde a instalação das dependências e inicie seu servidor:
-
-```
-    npm start
-```
-
-- Siga as instruções no CLI escolhido para acessar o seu servidor com seu site, agora disponível em localhost!
+Utilizando o sensor dh11 junto com arduino, integramos o NodeJS para captar os dados, inserir no banco e imprimir em um gráfico ChartJS
